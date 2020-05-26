@@ -1,6 +1,6 @@
 # Clean Markdown GitHub Action
 
-This action prints looks for Markdown files in your repository, and for each one:
+This action looks for Markdown files in your repository, and for each one:
 
 - Adds or updates a [table of contents](https://pypi.org/project/md-toc/)
 - Formats the file with [prettier](https://prettier.io)
